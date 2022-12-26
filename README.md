@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pritish Rajpoot 
-- 🌱 I’m currently learning Data Structure, Machine Learning and Web Development
+- 🌱 I’m currently learning Data Structure and Algorithm , Machine Learning and Web Development
 - 📫 How to reach me pritishrajpoot7@gmail.com
 - 💞️ I’m looking to collaborate on open source platform
 -  All of my projects are available at https://github.com/pritishrajpoot
